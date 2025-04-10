@@ -26,5 +26,5 @@ Este projeto é uma dashboard interativa construída com **Python**, **Pandas**,
 ```bash
 📂 projeto-dashboard-oscar/
 ├── dashboard_oscar.py       # Código principal da dashboard
-├── the_oscar_award.csv           # Arquivo de dados (exemplo)
+├── the_oscar_award.csv           # Arquivo de dados
 └── README.md                # Este arquivo
